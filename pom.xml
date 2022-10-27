@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>maven-web-app</name>
+	<name>maven-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.143.78.44:8081/repository/tesla-release/</url> 
+	      <url>http://18.218.126.19:5000/repository/ebay-bts-release/</url>     
 	    </repository>
 	    
 	    <snapshotRepository>
